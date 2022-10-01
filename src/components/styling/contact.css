@@ -1,0 +1,18 @@
+.contact_container {
+  margin: 3rem;
+  display: grid;
+  grid-template-columns: 1fr auto;
+}
+
+.left_contact {
+  margin-right: 4rem;
+}
+
+.right_contact {
+  display: flex;
+}
+
+.Mui-active {
+  margin: 2rem;
+}
+

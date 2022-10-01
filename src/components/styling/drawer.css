@@ -1,0 +1,29 @@
+.drawerTitle {
+  padding: 1rem 1rem 0;
+  display: flex;
+  justify-content: center;
+}
+.noItems {
+  display: flex;
+  justify-content: center;
+  padding: 1.5rem;
+}
+
+.cartItem_image {
+  max-width: 80px;
+  object-fit: cover;
+}
+
+.cartItemContainer {
+  margin: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cartItem_price {
+  color: #3388ff;
+  font-weight: 700;
+}
+.cartItem_title {
+  max-width: 70%;
+}

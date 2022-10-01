@@ -1,0 +1,28 @@
+.Product_container {
+  margin: 3rem;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+
+.LeftProductContainer {
+  display: flex;
+  justify-content: center;
+}
+.RightProductContainer {
+  margin-right: 8rem;
+}
+.imageProductContainer {
+  display: flex;
+  justify-content: center;
+  width: 60%;
+  margin-right: 8rem;
+}
+
+.imageProduct {
+  height: 100%;
+  max-width: 90%;
+}
+
+.productTitleContainer {
+  width: 30rem;
+}

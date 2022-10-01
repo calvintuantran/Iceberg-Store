@@ -1,0 +1,44 @@
+.box {
+  display: flex;
+}
+
+.left-section {
+  margin: 0;
+  overflow: hidden;
+  height: 100vh;
+}
+
+.login-image {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+.login-image:hover {
+  transform: scaleX(-1);
+}
+
+.form {
+  width: 20rem;
+  position: relative;
+  bottom: 2rem;
+  margin: 3rem 4rem;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 30px #ccc; /*box-shadown with 0 x-offset and y-offset 0 and then the blur to be 3 px*/
+  overflow-x: hidden;
+}
+
+.right-section {
+  margin-left: 0;
+}
+.logo-image {
+  width: 100%;
+  position: relative;
+  bottom: 2rem;
+  margin: -1rem;
+}
+
+
