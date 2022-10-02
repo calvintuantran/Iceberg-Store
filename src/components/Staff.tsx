@@ -22,7 +22,7 @@ const Staff = () => {
       position: "CEO",
       image: divya,
       description:
-        "ipsum dolor sit amet consectetur adipisicing elit. Porro nesciunt, vel consequatur delectus vitae modi asperiores ullam unde.",
+        "ipsum dolor sit amet consectetur adipisicing elit. Porro nesciunt, vel consequatur delectus vitae modi asperiores ullam und2e.",
     },
     {
       name: "Mateo",
