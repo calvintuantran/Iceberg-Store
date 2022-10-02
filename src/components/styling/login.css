@@ -8,17 +8,6 @@
   height: 100vh;
 }
 
-.login-image {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  height: 100%;
-  width: 100%;
-}
-
-.login-image:hover {
-  transform: scaleX(-1);
-}
-
 .form {
   width: 20rem;
   position: relative;

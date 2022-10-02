@@ -31,6 +31,7 @@ const Products = () => {
     } else if (item.title.toLowerCase().includes(searchItem.toLowerCase())) {
       return item;
     }
+    return item;
   });
 
   const showEmptyProductsList = Boolean(searchingProducts.length === 0);

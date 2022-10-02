@@ -1,8 +1,7 @@
-import React, { useState, useContext } from "react";
+import React, { useState } from "react";
 import { Routes, Route } from "react-router-dom";
 
 //Components
-import Login from "./components/Login";
 import Mainpage from "./components/Mainpage";
 import Products from "./components/Products";
 import Staff from "./components/Staff";
@@ -35,7 +34,6 @@ export function RoutesStore() {
     <>
       <Navbar selectedProduct={selectedProduct} />
       <Routes>
-        {/* <Route path="/" element={<Login />} /> */}
         <Route path="/Mainpage" element={<Mainpage />} />
         <Route path="/Products" element={<Products />} />
         <Route
