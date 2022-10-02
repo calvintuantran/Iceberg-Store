@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/icebergstore/static/css/main.73ba6e85.css",
+    "main.js": "/icebergstore/static/js/main.d75d2044.js",
+    "static/media/calvin.jpg": "/icebergstore/static/media/calvin.dbffde787c145ecb53d4.jpg",
+    "static/media/pancho.jpg": "/icebergstore/static/media/pancho.aefc246f1034c31440d9.jpg",
+    "static/media/gift.jpg": "/icebergstore/static/media/gift.6cfbbc15695677951bc9.jpg",
+    "static/media/map.jpg": "/icebergstore/static/media/map.798c228d0c0d3f619fee.jpg",
+    "static/media/sandra.jpg": "/icebergstore/static/media/sandra.4b0e2248ffdc98a4491f.jpg",
+    "static/media/review_two.jpg": "/icebergstore/static/media/review_two.1f9b0da0f71eb7c7c82c.jpg",
+    "static/media/mateo.jpg": "/icebergstore/static/media/mateo.94d76f4e39a1d235ccf9.jpg",
+    "static/media/review_1.jpg": "/icebergstore/static/media/review_1.633d04e2ea185a367504.jpg",
+    "static/media/divya.jpg": "/icebergstore/static/media/divya.75a7309a2fcb9e0898b6.jpg",
+    "static/media/michael.jpg": "/icebergstore/static/media/michael.b70760089dd67085ab05.jpg",
+    "static/media/application.jpg": "/icebergstore/static/media/application.635c8d747c2da70ed74a.jpg",
+    "static/media/undraw_online_test_re_kyfx.svg": "/icebergstore/static/media/undraw_online_test_re_kyfx.4d1bb2ac7548cbfd945d00e8f5bb8082.svg",
+    "index.html": "/icebergstore/index.html",
+    "main.73ba6e85.css.map": "/icebergstore/static/css/main.73ba6e85.css.map",
+    "main.d75d2044.js.map": "/icebergstore/static/js/main.d75d2044.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73ba6e85.css",
+    "static/js/main.d75d2044.js"
+  ]
+}
