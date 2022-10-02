@@ -34,7 +34,7 @@ export function RoutesStore() {
     <>
       <Navbar selectedProduct={selectedProduct} />
       <Routes>
-        <Route path="/Mainpage" element={<Mainpage />} />
+        <Route path="/" element={<Mainpage />} />
         <Route path="/Products" element={<Products />} />
         <Route
           path="/Products/:id"

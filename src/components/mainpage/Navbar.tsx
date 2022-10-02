@@ -121,7 +121,7 @@ const ResponsiveAppBar = (props: ShoppingCartProps) => {
                 sx={{ display: { xs: "none", md: "flex" }, mr: 1 }}
               />
               <Link
-                to="/Mainpage"
+                to="/"
                 style={{ textDecoration: "none", color: "white" }}
               >
                 <Typography
@@ -171,7 +171,7 @@ const ResponsiveAppBar = (props: ShoppingCartProps) => {
                 </Menu>
               </Box>
               <Link
-                to="/Mainpage"
+                to="/"
                 style={{ textDecoration: "none", color: "white" }}
               >
                 <Typography

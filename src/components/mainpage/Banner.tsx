@@ -15,8 +15,8 @@ interface BannerProps {
 
 const useStyles = makeStyles(() => ({
   card: {
-    minHeight: 500,
-    maxHeight: 500,
+    minHeight: 520,
+    maxHeight: 520,
     margin: "2rem",
     boxShadow:
       "rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px",
